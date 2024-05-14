@@ -4,7 +4,7 @@
 </svelte:head>
 
 <nav class="barra">
-    <img id="logo" src="/favicon.jpg" alt="logo">
+    <img id="logo" src="/logo.jpg" alt="logo">
 
     <h1 class="nav_titolo">Il mio triennio nell'istituto Agnelli</h1>
 
