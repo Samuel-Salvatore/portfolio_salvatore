@@ -11,7 +11,7 @@
         <h1 class="pres">Mi presento</h1>
     </div>
 
-    <img id="piccolo" src="/piccolo.jpeg" alt="piccino">
+    <img id="piccolo" src="./piccolo.jpeg" alt="piccino">
     <p class="papiro text1">
         Sono Samuel Salvatore e ho terminato quest'anno la quinta informatica all'istituto agnelli. 
         Il mio percorso scolastico è iniziato con un anno di anticipo rispetto al previsto perché, essendo nato nel Gennaio 2006, i 
@@ -26,9 +26,9 @@
         MGS (Movimento Giovanile Salesiano), sia a scuola sia nell'oratorio San Paolo, con le diverse attività che vengono proposte.<br>
         La mia famiglia è composta da 10 persone: mamma, papà, 1 sorella maggiore, io, 1 sorella minore e 6 fratellini.
     </p>
-    <img id="grande" src="/grande.jpeg" alt="grande">
+    <img id="grande" src="./grande.jpeg" alt="grande">
 
-    <img id="family" src="/family.jpg" alt="famiglia">
+    <img id="family" src="./family.jpg" alt="famiglia">
     <p class="papiro text3">
         I nomi di alcuni miei fratelli e il mio dicono molto di più di quanto sembri, infatti, sono spagnoli proprio per la nazionalità di mia madre.
         Questo è stato un grande vantaggio in quanto fin dall'infanzia ho potuto imparare fluentemente l'italiano e lo spagnolo.

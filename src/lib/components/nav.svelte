@@ -4,15 +4,15 @@
 </svelte:head>
 
 <nav class="barra">
-    <img id="logo" src="/logo.jpg" alt="logo">
+    <img id="logo" src="./logo.jpg" alt="logo">
 
     <h1 class="nav_titolo">Il mio triennio nell'istituto Agnelli</h1>
 
     <ul>
-        <div class="bottone" id="icona"><a href="/"><li><span class="material-symbols-outlined">home</span></li></a></div>
-        <div class="bottone"><a href="/anno1"><li>2021/2022</li></a></div>
-        <div class="bottone"><a href="/anno2"><li>2022/2023</li></a></div>
-        <div class="bottone"><a href="/anno3"><li>2023/2024</li></a></div>
+        <div class="bottone" id="icona"><a href="./"><li><span class="material-symbols-outlined">home</span></li></a></div>
+        <div class="bottone"><a href="./anno1"><li>2021/2022</li></a></div>
+        <div class="bottone"><a href="./anno2"><li>2022/2023</li></a></div>
+        <div class="bottone"><a href="./anno3"><li>2023/2024</li></a></div>
     </ul>
 </nav>
 
