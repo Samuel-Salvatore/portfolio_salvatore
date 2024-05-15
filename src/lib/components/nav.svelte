@@ -21,8 +21,6 @@
         display: flex;
         justify-content:space-between;
         border-radius: 15px;
-        position: sticky;
-        top: 5px;
         width: 100%;
         height: 104px;
         background-color:aliceblue;

@@ -1,9 +1,3 @@
-<script>
-    import Nav from "../lib/components/nav.svelte";
-
-</script>
-<Nav />
-
 <div class="container">
     <div class="header">
         <h1 class="titolo">Portfolio Educazione Civica di Samuel Salvatore</h1>

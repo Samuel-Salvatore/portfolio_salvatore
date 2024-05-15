@@ -1,8 +1,3 @@
-<script>
-    import Nav from "../../lib/components/nav.svelte";
-</script>
-<Nav />
-
 <h1 class="pres">Quarto anno: 2022/2023</h1>
 <hr>
 
