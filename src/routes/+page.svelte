@@ -73,7 +73,6 @@
 
     .papiro {
         line-height: 180%;
-        margin: 2%;
         text-align: justify;
         font-family: Georgia, 'Times New Roman', Times, serif;
         font-size: 1.3vw;

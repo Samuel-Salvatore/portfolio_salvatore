@@ -15,5 +15,6 @@
     header {
         position: sticky;
         top: 5px;
+        z-index: 2;
     }
 </style>
