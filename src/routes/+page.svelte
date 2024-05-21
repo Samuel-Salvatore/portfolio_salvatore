@@ -1,8 +1,8 @@
-<div class="container">
-    <div class="header">
-        <h1 class="titolo">Portfolio Educazione Civica di Samuel Salvatore</h1>
+<div class="containers">
+    <div class="headers">
+        <h1 class="titolos">Portfolio Educazione Civica di Samuel Salvatore</h1>
         <hr>
-        <h1 class="pres">Mi presento</h1>
+        <h1 class="press">Mi presento</h1>
     </div>
 
     <img id="piccolo" src="./piccolo.jpeg" alt="piccino">
@@ -30,7 +30,7 @@
 </div>
 
 <style>
-    .container {
+    .containers {
         display: grid;
         grid-template-rows: auto;
         grid-template-columns: 30% 40% 30%;
@@ -42,11 +42,11 @@
         margin-right: 1.5%;
     }
 
-    .header {
+    .headers {
         grid-area: header;
     }
 
-    .titolo {
+    .titolos {
         font-size: 3.5vw;
         font-family: 'Dancing Script', cursive;
         text-align: center;    
@@ -54,7 +54,7 @@
         text-shadow: 1px 1px black;
     }
 
-    .pres {
+    .press {
         font-size: 2.5vw;
         font-family: 'Dancing Script', cursive;
         text-align: center;    
@@ -90,6 +90,11 @@
 
     .text3 {
         grid-area: text3;
+    }
+
+    img {
+        margin-top: 0%;
+
     }
 
     #grande {

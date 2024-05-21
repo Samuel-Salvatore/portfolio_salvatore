@@ -24,7 +24,7 @@
         <p>
             Con la docente di informatica abbiamo realizzato un sito/presentazione che conteneva 
             le seguenti tematiche relative ai pericoli ed alla sicurezza nei sistemi informatici (lo spunto principale è stata la rivista HACKER JOURNAL):
-            <ul>
+            <ul id="uls">
                 <li>Sicurezza di un sistema informatico: valutazione dei rischi.</li>
                 <li>Tipologie di attacchi informatici.</li>
                 <li>Introduzione alla crittografia: a cosa serve e come funziona un sistema crittografico.</li>
@@ -83,79 +83,3 @@
     </div>
 </div>
 
-<style>
-    .pres {
-        font-size: 2.5vw;
-        font-family: 'Dancing Script', cursive;
-        text-align: center;    
-        color: red;
-        text-shadow: 1px 1px black;
-    }
-
-    .container {
-        display: grid;
-        width: 94%;
-        margin: auto;
-        grid-template-areas: "title title title"
-                             "elements writing writing";
-    }
-
-    .title {
-        grid-area: title;
-        font-size: 2.5vw;
-        font-family: Georgia, 'Times New Roman', Times, serif;
-        color: #0054a7;
-        margin-bottom: 1%;
-    }
-
-    .elements {
-        grid-area: elements;
-    }
-
-    .image-container {
-        position: relative;
-        z-index: 1;
-        display: inline-block;
-        width: 100%;
-        cursor: pointer;
-    }
-    
-    img {
-        width: 100%;
-        border-radius: 5px;
-        margin-top: 5%;
-    }
-
-    iframe {
-        width: 460px;
-        border-radius: 5px;
-        margin-top: 5%;
-        height: 300px;
-    }
-
-    .external-link-icon {
-        position: absolute;
-        top: 9%;  /* Regola in base alle tue necessità */
-        right: 3%; /* Regola in base alle tue necessità */
-        background-color: rgba(255, 255, 255, 0.8); /* Sfondo semi-trasparente per migliorare la visibilità */
-        border-radius: 50%;
-        padding: 5px; /* Spazio attorno all'icona */
-    }
-
-    .writing {
-        grid-area: writing;
-    }
-
-    .mafia {
-        line-height: 180%;
-    }
-
-    p, ul {
-        text-align: justify;
-        font-family: Georgia, 'Times New Roman', Times, serif;
-        font-size: 1.3vw;    
-        margin-left: 2%;
-        margin-right: 2%;
-        line-height: 150%;
-    }
-</style>

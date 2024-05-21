@@ -1,6 +1,6 @@
 <script>
     import Nav from "../lib/components/nav.svelte";
-
+    import './style.css';
 </script>
 
 <header>
@@ -10,11 +10,3 @@
 <article>
     <slot></slot>
 </article>
-
-<style>
-    header {
-        position: sticky;
-        top: 5px;
-        z-index: 2;
-    }
-</style>
