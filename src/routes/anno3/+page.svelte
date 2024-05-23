@@ -22,21 +22,24 @@
 
 
 <div class="container">
-    <div class="title">2. Scrittura di un articolo per il blog del professore!</div>
+    <div class="title">2. ENGLISH: Risks and dangers of social</div>
     <div class="elements">
-        <img src="./go_rust.png" alt="go vs rust" style="border: 1px solid black">
-    </div>
+        <iframe
+        src="./english_pres.pdf"
+        title="English"
+        width="100%"
+        frameborder="0"
+        allowfullscreen = "true"
+        mozallowfullscreen = "true"
+        webkitallowfullscreen = "true"
+        />    </div>
     <div class="writing"> 
         <p>
-            Durante l'anno scolastico di quarta superiore nel corso di Tecnologia e Progettazione di Sistemi Informatici (TPSI), 
-            ho affrontato uno studio comparativo tra due linguaggi di programmazione emergenti: Go e Rust. Questo progetto ha avuto l'obiettivo di esplorare 
-            le caratteristiche distintive di entrambi i linguaggi, analizzando le loro peculiarità, i vantaggi, e gli svantaggi, nonché i casi d'uso più 
-            appropriati per ciascuno.
-            Ultimati l'approfondimento e lo studio personale ho provveduto a scrivere un articolo tecnico per il blog del mio professore. La tecnologia utilizzata
-            è stata il markdown (md). 
-            Il Markdown è un linguaggio di markup leggero che consente di formattare testo semplice in modo strutturato. 
-            È ampiamente utilizzato per scrivere documenti, documentazione, blog e file README.
-            <br><a href="./go_e_rust_i_linguaggi_di_programmazione_emergenti.md">Cliccare qua per vedere il codice!</a>
+            Durante il quinto anno, nell'ambito della materia di inglese, abbiamo realizzato un progetto intitolato 
+            "The Risks and Dangers of Video Games, Social Networks, and Smart Phones". Questo progetto ha analizzato i potenziali rischi associati 
+            all'uso di queste tecnologie, come la dipendenza, il cyberbullismo e i disturbi del sonno.
+            Abbiamo preparato una presentazione in inglese che ci ha permesso di migliorare le competenze linguistiche e di acquisire 
+            una maggiore consapevolezza dei pericoli del mondo digitale.
         </p>
     </div>
 </div> <br><hr style="width: 55%;"><br>
@@ -78,4 +81,4 @@
             Inoltre siamo stati chiamati ad ascoltare e partecipare a lezioni interattive su figure come Peppino Impastato, Nicola Gratteri e tanto altro.
         </p>
     </div>
-</div> 
+</div>

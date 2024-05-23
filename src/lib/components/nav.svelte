@@ -80,7 +80,8 @@
         background-color: white;
         transition: all 0.8s ease 0s;
         border: 1px solid red;
-    }   
+        cursor: pointer;
+    }
 
     .bottone:hover a {
         color: red;

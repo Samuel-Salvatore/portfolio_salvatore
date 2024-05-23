@@ -79,4 +79,4 @@
             Inoltre siamo stati chiamati ad ascoltare e partecipare a lezioni interattive su figure come Peppino Impastato, Nicola Gratteri e tanto altro.
         </p>
     </div>
-</div> 
+</div>
