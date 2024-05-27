@@ -79,4 +79,22 @@
             Inoltre siamo stati chiamati ad ascoltare e partecipare a lezioni interattive su figure come Peppino Impastato, Nicola Gratteri e tanto altro.
         </p>
     </div>
+</div> <br><hr style="width: 55%;"><br>
+
+<div class="container">
+    <div class="title">5. Anni di piombo: l'esperienza della famiglia Tobagi</div>
+    <div class="elements">
+        <img src="./tobagi.jpeg" alt="tobagi" style="border: 1px solid black;">
+    </div>
+    <div class="writing"> 
+        <p>          
+            Abbiamo avuto l'onore di partecipare ad un incontro con Benedetta Tobagi, durante il quale abbiamo approfondito l'argomento degli anni di piombo. 
+            Questo periodo, che va dagli anni '60 agli anni '80, è stato caratterizzato da una violenza politica intensa in Italia, segnata da atti terroristici, 
+            scontri di piazza e una profonda instabilità sociale. Benedetta Tobagi, figlia del giornalista assassinato Walter Tobagi, ha esplorato questo 
+            tumultuoso periodo nel suo libro "Come mi batte forte il tuo cuore". Il libro, che abbiamo avuto l'opportunità di leggere, offre una prospettiva 
+            personale e toccante sugli eventi, raccontando non solo la storia pubblica di quegli anni ma anche il dolore privato e la resilienza di chi ha 
+            vissuto quelle tragedie in prima persona. Attraverso le sue pagine, Tobagi ci guida in un viaggio emotivo e riflessivo, rivelando le cicatrici 
+            lasciate da quel decennio di conflitti e le lezioni che possiamo trarre per il presente e il futuro.
+        </p>
+    </div>
 </div>

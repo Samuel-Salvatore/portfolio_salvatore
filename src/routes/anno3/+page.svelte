@@ -45,40 +45,42 @@
 </div> <br><hr style="width: 55%;"><br>
 
 <div class="container">
-    <div class="title">3. Percorso con Agende Rosse</div>
+    <div class="title">3. Prigionia nella storia: campi di concetramento, gulag e unità 731</div>
     <div class="elements">
-        <iframe
-            title="presentazione1"
-            src="./a_rosse.pdf"
-            width="100%"
-        ></iframe>         
+        <img src="./concentramento.jpg" alt="campi concentramento">
     </div>
     <div class="writing"> 
         <p>
-
-            Durante l'anno scolastico di quarta superiore, nel corso delle lezioni di Italiano, abbiamo affrontato una serie di tematiche legate 
-            alla storia contemporanea e alla lotta contro la mafia. Una delle discussioni più significative è stata quella sulle "agende rosse", 
-            un simbolo potentemente evocativo nella memoria collettiva italiana. Le "agende rosse" si riferiscono all'agenda personale del giudice 
-            Paolo Borsellino, che è misteriosamente scomparsa il giorno del suo attentato, il 19 luglio 1992. Borsellino era noto per annotare in 
-            questa agenda tutti i suoi pensieri, riflessioni e indagini, rendendola un documento di enorme importanza. La scomparsa dell'agenda ha 
-            alimentato numerosi sospetti e teorie riguardo alla possibilità che contenesse informazioni cruciali sulle connessioni tra mafia e politica.
-            Quando ci è stato chiesto di preparare una presentazione su un argomento a scelta legato alla lotta alla mafia, ho scelto di concentrarmi su 
-            Salvatore Borsellino, fratello di Paolo che ha deciso di portare avanti il suo sogno.
+            La prigionia nella storia rappresenta uno degli aspetti più oscuri e complessi dell'umanità, 
+            caratterizzata da sistemi di detenzione brutali e disumani. I campi di concentramento nazisti, simbolo del genocidio durante 
+            la Seconda Guerra Mondiale, furono luoghi di indicibili sofferenze, dove milioni di ebrei, dissidenti politici, omosessuali e 
+            altre minoranze furono internati e uccisi. Parallelamente, i gulag sovietici, istituiti sotto il regime stalinista, incarnarono la 
+            repressione politica e sociale, con milioni di persone costrette ai lavori forzati in condizioni estreme, spesso senza alcun processo giusto. 
+            Infine, l'Unità 731 del Giappone imperiale è meno conosciuta ma altrettanto terribile: un'unità militare segreta responsabile di esperimenti biologici 
+            e chimici su prigionieri di guerra e civili, che portò a innumerevoli atrocità durante la Seconda Guerra Mondiale. Studiare questi luoghi e 
+            periodi storici è essenziale per non dimenticare le vittime e per comprendere le radici profonde della violenza e della disumanizzazione, 
+            affinché tali orrori non si ripetano.
         </p>
     </div>
 </div> <br><hr style="width: 55%;"><br>
 
 <div class="container">
-    <div class="title">4. Molte testimonianze significative</div>
+    <div class="title">4. Situazione carceraria e incontro con Cosima Buccoliero</div>
     <div class="elements">
-        <img src="./dome.jpeg" alt="domè">
+        <img src="./buccoliero.jpeg" alt="buccoliero" style="border: 1px solid black;">
     </div>
     <div class="writing"> 
         <p>
-            Durante l'anno scolastico di quarta superiore nel corso di Lettere abbiamo avuto molte altre occasioni di approfondimento sul tema della mafia e della 
-            sua lotta. Una delle occasioni più speciali è stata l'occasione di incontro con la diretta testimonianza del sig. Ferdinando Domè, 
-            figlio di una vittima innocente di mafia, nella strage di viale Lazio a Palermo.
-            Inoltre siamo stati chiamati ad ascoltare e partecipare a lezioni interattive su figure come Peppino Impastato, Nicola Gratteri e tanto altro.
+            Cosima Buccoliero ha ricoperto a lungo il ruolo di vicedirettrice e poi di direttrice del carcere di Milano Bollate. 
+            Sebbene questo possa sembrare un lavoro arduo, dove freddezza e rigore sono considerati essenziali per mantenere il controllo, 
+            l'approccio di Buccoliero è radicalmente diverso. Quando ha affermato che gli ergastolani nel suo carcere hanno diritto a una camera singola, 
+            ha suscitato stupore in chi ritiene che oltre le sbarre non ci debba essere più speranza. Questa è la chiave del suo lavoro: accoglienza e umanità. 
+            Per lei, il carcere è un microcosmo brulicante di vitalità, composto da detenuti, personale di sorveglianza e medico, volontari e le famiglie 
+            di tutti questi individui.
+            Nel 2020, Buccoliero è stata insignita dell’Ambrogino d’Oro per il suo modello virtuoso di gestione carceraria, 
+            che si basa sulla convinzione che la pena detentiva debba mirare al reinserimento e non ridursi alla sola punizione. 
+            La detenzione deve mantenere la sua funzione rieducativa, altrimenti diventa mera afflizione. Questo suo modus operandi ci è stato presentato dal libro 
+            "senza sbarre", da lei scritto e da un incontro interattivo che abbiamo avuto con la rinomata direttrice.
         </p>
     </div>
 </div>
