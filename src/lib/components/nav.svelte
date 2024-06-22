@@ -31,7 +31,7 @@
         width: 226px;
         height: 104px;
         border-radius: 15px;
-        margin-top: 0%;
+        margin-top: 0%; 
     }
 
     a {
